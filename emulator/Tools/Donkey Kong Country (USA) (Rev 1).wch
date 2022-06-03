@@ -1,0 +1,5 @@
+SystemID SNES
+00088A	b	h	0	WRAM	x coo 1
+00088B	b	h	0	WRAM	x coo 2
+00088C	b	h	0	WRAM	x coo 3
+

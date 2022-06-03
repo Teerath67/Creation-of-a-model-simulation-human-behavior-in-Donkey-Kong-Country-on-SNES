@@ -1,0 +1,14 @@
+EXECUTABLE RUNNING
+STACK AVAILABLE: 0004193816 bytes
+STARTED [DKC Resource Editor]
+CNitroGUI::PreInit()
+CNitroGUI::PreInit() SUCCESSFUL
+CMain::CMain()
+CNitroGUI::Init()
+CNitroGUI::Init(): Initializing Allegro
+CNitroGUI::Init(): Initializing Allegro - COMPLETE
+CNitroGUI::Init() SUCCESFUL
+CMain::Engine() RUNNING
+InitStates();
+Begin Main Loop...
+
